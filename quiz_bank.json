@@ -1,0 +1,2762 @@
+[
+  {
+    "id": 1,
+    "category": "Animals",
+    "id_title": "Hewan apa yang memiliki belalai panjang?",
+    "en_question": "Which animal has a long trunk?",
+    "id_question": "Hewan apa yang memiliki belalai panjang?",
+    "en_options": [
+      "Lion",
+      "Elephant",
+      "Tiger",
+      "Horse"
+    ],
+    "id_options": [
+      "Singa",
+      "Gajah",
+      "Harimau",
+      "Kuda"
+    ],
+    "en_answer": "Elephant",
+    "id_answer": "Gajah",
+    "en_fact": "An elephant uses its trunk to smell, breathe, and pick up food.",
+    "id_fact": "Gajah menggunakan belalainya untuk mencium, bernapas, dan mengambil makanan."
+  },
+  {
+    "id": 2,
+    "category": "Animals",
+    "id_title": "Hewan apa yang berbunyi “meong”?",
+    "en_question": "Which animal says “meow”?",
+    "id_question": "Hewan apa yang berbunyi “meong”?",
+    "en_options": [
+      "Dog",
+      "Duck",
+      "Cat",
+      "Cow"
+    ],
+    "id_options": [
+      "Anjing",
+      "Bebek",
+      "Kucing",
+      "Sapi"
+    ],
+    "en_answer": "Cat",
+    "id_answer": "Kucing",
+    "en_fact": "Cats often communicate with people by meowing.",
+    "id_fact": "Kucing sering berkomunikasi dengan manusia lewat suara mengeong."
+  },
+  {
+    "id": 3,
+    "category": "Animals",
+    "id_title": "Hewan apa yang terkenal memiliki belang hitam putih?",
+    "en_question": "Which animal is known for black and white stripes?",
+    "id_question": "Hewan apa yang terkenal memiliki belang hitam putih?",
+    "en_options": [
+      "Zebra",
+      "Giraffe",
+      "Panda",
+      "Fox"
+    ],
+    "id_options": [
+      "Zebra",
+      "Jerapah",
+      "Panda",
+      "Rubah"
+    ],
+    "en_answer": "Zebra",
+    "id_answer": "Zebra",
+    "en_fact": "Every zebra has a unique stripe pattern.",
+    "id_fact": "Setiap zebra memiliki pola belang yang unik."
+  },
+  {
+    "id": 4,
+    "category": "Animals",
+    "id_title": "Hewan apa yang melompat dan membawa anaknya di kantong?",
+    "en_question": "Which animal can hop and carries its baby in a pouch?",
+    "id_question": "Hewan apa yang melompat dan membawa anaknya di kantong?",
+    "en_options": [
+      "Kangaroo",
+      "Rabbit",
+      "Monkey",
+      "Bear"
+    ],
+    "id_options": [
+      "Kanguru",
+      "Kelinci",
+      "Monyet",
+      "Beruang"
+    ],
+    "en_answer": "Kangaroo",
+    "id_answer": "Kanguru",
+    "en_fact": "A kangaroo's pouch helps protect its young joey.",
+    "id_fact": "Kantong kanguru membantu melindungi anaknya."
+  },
+  {
+    "id": 5,
+    "category": "Animals",
+    "id_title": "Hewan darat apa yang paling tinggi?",
+    "en_question": "Which animal is the tallest living land animal?",
+    "id_question": "Hewan darat apa yang paling tinggi?",
+    "en_options": [
+      "Camel",
+      "Giraffe",
+      "Elephant",
+      "Ostrich"
+    ],
+    "id_options": [
+      "Unta",
+      "Jerapah",
+      "Gajah",
+      "Burung unta"
+    ],
+    "en_answer": "Giraffe",
+    "id_answer": "Jerapah",
+    "en_fact": "A giraffe's long neck helps it reach leaves high in trees.",
+    "id_fact": "Leher panjang jerapah membantunya meraih daun di pohon tinggi."
+  },
+  {
+    "id": 6,
+    "category": "Geography",
+    "id_title": "Kuis cepat: Di planet mana kita tinggal?",
+    "en_question": "Quick quiz: Which planet do we live on?",
+    "id_question": "Kuis cepat: Di planet mana kita tinggal?",
+    "en_options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "id_options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "en_answer": "Earth",
+    "id_answer": "Bumi",
+    "en_fact": "Earth is the third planet from the Sun.",
+    "id_fact": "Bumi adalah planet ketiga dari Matahari."
+  },
+  {
+    "id": 7,
+    "category": "Animals",
+    "id_title": "Kuis cepat: Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_question": "Quick quiz: Which animal lives in a hive and makes honey?",
+    "id_question": "Kuis cepat: Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_options": [
+      "Bee",
+      "Ant",
+      "Butterfly",
+      "Fly"
+    ],
+    "id_options": [
+      "Lebah",
+      "Semut",
+      "Kupu-kupu",
+      "Lalat"
+    ],
+    "en_answer": "Bee",
+    "id_answer": "Lebah",
+    "en_fact": "Honeybees collect nectar from flowers to make honey.",
+    "id_fact": "Lebah madu mengumpulkan nektar bunga untuk membuat madu."
+  },
+  {
+    "id": 8,
+    "category": "Nature",
+    "id_title": "Bisakah kamu menjawab ini? Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_question": "Can you answer this? Which part of a plant usually absorbs water from soil?",
+    "id_question": "Bisakah kamu menjawab ini? Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_options": [
+      "Roots",
+      "Petals",
+      "Fruit",
+      "Thorns"
+    ],
+    "id_options": [
+      "Akar",
+      "Mahkota bunga",
+      "Buah",
+      "Duri"
+    ],
+    "en_answer": "Roots",
+    "id_answer": "Akar",
+    "en_fact": "Roots take up water and minerals from the soil.",
+    "id_fact": "Akar menyerap air dan mineral dari tanah."
+  },
+  {
+    "id": 9,
+    "category": "Space",
+    "id_title": "Bisakah kamu menjawab ini? Planet apa yang terkenal dengan cincinnya?",
+    "en_question": "Can you answer this? Which planet is famous for its rings?",
+    "id_question": "Bisakah kamu menjawab ini? Planet apa yang terkenal dengan cincinnya?",
+    "en_options": [
+      "Mars",
+      "Saturn",
+      "Mercury",
+      "Earth"
+    ],
+    "id_options": [
+      "Mars",
+      "Saturnus",
+      "Merkurius",
+      "Bumi"
+    ],
+    "en_answer": "Saturn",
+    "id_answer": "Saturnus",
+    "en_fact": "Saturn's rings are made mostly of pieces of ice and rock.",
+    "id_fact": "Cincin Saturnus terutama terdiri dari bongkahan es dan batu."
+  },
+  {
+    "id": 10,
+    "category": "Everyday Science",
+    "id_title": "Bisakah kamu menjawab ini? Es adalah wujud air yang mana?",
+    "en_question": "Can you answer this? Which state of water is ice?",
+    "id_question": "Bisakah kamu menjawab ini? Es adalah wujud air yang mana?",
+    "en_options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "id_options": [
+      "Padat",
+      "Cair",
+      "Gas",
+      "Plasma"
+    ],
+    "en_answer": "Solid",
+    "id_answer": "Padat",
+    "en_fact": "Ice is water in its solid state.",
+    "id_fact": "Es adalah air dalam wujud padat."
+  },
+  {
+    "id": 11,
+    "category": "Food and Colors",
+    "id_title": "Bisakah kamu menjawab ini? Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_question": "Can you answer this? Which color do you get by mixing blue and yellow paint?",
+    "id_question": "Bisakah kamu menjawab ini? Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_options": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Pink"
+    ],
+    "id_options": [
+      "Hijau",
+      "Ungu",
+      "Oranye",
+      "Merah muda"
+    ],
+    "en_answer": "Green",
+    "id_answer": "Hijau",
+    "en_fact": "Blue and yellow pigments commonly mix to make green.",
+    "id_fact": "Pigmen biru dan kuning umumnya bercampur menjadi hijau."
+  },
+  {
+    "id": 12,
+    "category": "Geography",
+    "id_title": "Bisakah kamu menjawab ini? Samudra apa yang terbesar di Bumi?",
+    "en_question": "Can you answer this? What is the largest ocean on Earth?",
+    "id_question": "Bisakah kamu menjawab ini? Samudra apa yang terbesar di Bumi?",
+    "en_options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "id_options": [
+      "Samudra Pasifik",
+      "Samudra Hindia",
+      "Samudra Arktik",
+      "Samudra Atlantik"
+    ],
+    "en_answer": "Pacific Ocean",
+    "id_answer": "Samudra Pasifik",
+    "en_fact": "The Pacific Ocean covers more area than any other ocean.",
+    "id_fact": "Samudra Pasifik mencakup wilayah lebih luas daripada samudra lain."
+  },
+  {
+    "id": 13,
+    "category": "Animals",
+    "id_title": "Bisakah kamu menjawab ini? Hewan laut apa yang memiliki delapan lengan?",
+    "en_question": "Can you answer this? Which sea animal has eight arms?",
+    "id_question": "Bisakah kamu menjawab ini? Hewan laut apa yang memiliki delapan lengan?",
+    "en_options": [
+      "Shark",
+      "Octopus",
+      "Turtle",
+      "Whale"
+    ],
+    "id_options": [
+      "Hiu",
+      "Gurita",
+      "Kura-kura",
+      "Paus"
+    ],
+    "en_answer": "Octopus",
+    "id_answer": "Gurita",
+    "en_fact": "An octopus has eight arms lined with suckers.",
+    "id_fact": "Gurita memiliki delapan lengan dengan alat pengisap."
+  },
+  {
+    "id": 14,
+    "category": "Nature",
+    "id_title": "Bisakah kamu menjawab ini? Apa yang jatuh dari awan sebagai kristal es?",
+    "en_question": "Can you answer this? What falls from clouds as frozen ice crystals?",
+    "id_question": "Bisakah kamu menjawab ini? Apa yang jatuh dari awan sebagai kristal es?",
+    "en_options": [
+      "Snow",
+      "Steam",
+      "Dust",
+      "Leaves"
+    ],
+    "id_options": [
+      "Salju",
+      "Uap",
+      "Debu",
+      "Daun"
+    ],
+    "en_answer": "Snow",
+    "id_answer": "Salju",
+    "en_fact": "Snow forms when ice crystals grow in cold clouds.",
+    "id_fact": "Salju terbentuk ketika kristal es tumbuh di awan dingin."
+  },
+  {
+    "id": 15,
+    "category": "Space",
+    "id_title": "Pilih jawaban yang benar: Apa satelit alami Bumi?",
+    "en_question": "Choose the correct answer: What is Earth's natural satellite?",
+    "id_question": "Pilih jawaban yang benar: Apa satelit alami Bumi?",
+    "en_options": [
+      "The Moon",
+      "The Sun",
+      "Mars",
+      "Venus"
+    ],
+    "id_options": [
+      "Bulan",
+      "Matahari",
+      "Mars",
+      "Venus"
+    ],
+    "en_answer": "The Moon",
+    "id_answer": "Bulan",
+    "en_fact": "The Moon orbits Earth.",
+    "id_fact": "Bulan mengorbit Bumi."
+  },
+  {
+    "id": 16,
+    "category": "Everyday Science",
+    "id_title": "Pilih jawaban yang benar: Gaya apa yang menarik benda ke arah Bumi?",
+    "en_question": "Choose the correct answer: Which force pulls objects toward Earth?",
+    "id_question": "Pilih jawaban yang benar: Gaya apa yang menarik benda ke arah Bumi?",
+    "en_options": [
+      "Gravity",
+      "Magnetism only",
+      "Sound",
+      "Light"
+    ],
+    "id_options": [
+      "Gravitasi",
+      "Hanya magnet",
+      "Suara",
+      "Cahaya"
+    ],
+    "en_answer": "Gravity",
+    "id_answer": "Gravitasi",
+    "en_fact": "Gravity keeps us and objects on Earth's surface.",
+    "id_fact": "Gravitasi menjaga kita dan benda tetap di permukaan Bumi."
+  },
+  {
+    "id": 17,
+    "category": "Food and Colors",
+    "id_title": "Pilih jawaban yang benar: Makanan apa yang dibuat oleh lebah?",
+    "en_question": "Choose the correct answer: Which food is made by bees?",
+    "id_question": "Pilih jawaban yang benar: Makanan apa yang dibuat oleh lebah?",
+    "en_options": [
+      "Honey",
+      "Bread",
+      "Cheese",
+      "Rice"
+    ],
+    "id_options": [
+      "Madu",
+      "Roti",
+      "Keju",
+      "Nasi"
+    ],
+    "en_answer": "Honey",
+    "id_answer": "Madu",
+    "en_fact": "Honeybees make honey from collected nectar.",
+    "id_fact": "Lebah madu membuat madu dari nektar yang dikumpulkan."
+  },
+  {
+    "id": 18,
+    "category": "Geography",
+    "id_title": "Pilih jawaban yang benar: Di benua mana Mesir berada?",
+    "en_question": "Choose the correct answer: On which continent is Egypt located?",
+    "id_question": "Pilih jawaban yang benar: Di benua mana Mesir berada?",
+    "en_options": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Australia"
+    ],
+    "id_options": [
+      "Afrika",
+      "Eropa",
+      "Amerika Selatan",
+      "Australia"
+    ],
+    "en_answer": "Africa",
+    "id_answer": "Afrika",
+    "en_fact": "Most of Egypt is in northeastern Africa.",
+    "id_fact": "Sebagian besar wilayah Mesir berada di Afrika timur laut."
+  },
+  {
+    "id": 19,
+    "category": "Animals",
+    "id_title": "Pilih jawaban yang benar: Hewan apa yang menghasilkan wol?",
+    "en_question": "Choose the correct answer: Which animal gives us wool?",
+    "id_question": "Pilih jawaban yang benar: Hewan apa yang menghasilkan wol?",
+    "en_options": [
+      "Sheep",
+      "Tiger",
+      "Dolphin",
+      "Frog"
+    ],
+    "id_options": [
+      "Domba",
+      "Harimau",
+      "Lumba-lumba",
+      "Katak"
+    ],
+    "en_answer": "Sheep",
+    "id_answer": "Domba",
+    "en_fact": "Wool from sheep can be used to make warm clothing.",
+    "id_fact": "Wol domba dapat digunakan untuk membuat pakaian hangat."
+  },
+  {
+    "id": 20,
+    "category": "Nature",
+    "id_title": "Pilih jawaban yang benar: Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_question": "Choose the correct answer: What do plants need from sunlight to make food?",
+    "id_question": "Pilih jawaban yang benar: Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_options": [
+      "Energy",
+      "Plastic",
+      "Sand only",
+      "Smoke"
+    ],
+    "id_options": [
+      "Energi",
+      "Plastik",
+      "Hanya pasir",
+      "Asap"
+    ],
+    "en_answer": "Energy",
+    "id_answer": "Energi",
+    "en_fact": "Plants use light energy during photosynthesis.",
+    "id_fact": "Tumbuhan menggunakan energi cahaya saat fotosintesis."
+  },
+  {
+    "id": 21,
+    "category": "Space",
+    "id_title": "Pilih jawaban yang benar: Bintang apa yang paling dekat dengan Bumi?",
+    "en_question": "Choose the correct answer: Which star is closest to Earth?",
+    "id_question": "Pilih jawaban yang benar: Bintang apa yang paling dekat dengan Bumi?",
+    "en_options": [
+      "The Sun",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "id_options": [
+      "Matahari",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "en_answer": "The Sun",
+    "id_answer": "Matahari",
+    "en_fact": "The Sun is the star at the center of our solar system.",
+    "id_fact": "Matahari adalah bintang di pusat tata surya kita."
+  },
+  {
+    "id": 22,
+    "category": "Everyday Science",
+    "id_title": "Ayo belajar! Apa yang digunakan untuk mengukur suhu?",
+    "en_question": "Let's learn! What do we use to measure temperature?",
+    "id_question": "Ayo belajar! Apa yang digunakan untuk mengukur suhu?",
+    "en_options": [
+      "Thermometer",
+      "Ruler",
+      "Compass",
+      "Scale"
+    ],
+    "id_options": [
+      "Termometer",
+      "Penggaris",
+      "Kompas",
+      "Timbangan"
+    ],
+    "en_answer": "Thermometer",
+    "id_answer": "Termometer",
+    "en_fact": "A thermometer measures how hot or cold something is.",
+    "id_fact": "Termometer mengukur seberapa panas atau dingin sesuatu."
+  },
+  {
+    "id": 23,
+    "category": "Food and Colors",
+    "id_title": "Ayo belajar! Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_question": "Let's learn! Which fruit is usually yellow when ripe and monkeys are often shown eating it?",
+    "id_question": "Ayo belajar! Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_options": [
+      "Banana",
+      "Blueberry",
+      "Lime",
+      "Plum"
+    ],
+    "id_options": [
+      "Pisang",
+      "Blueberry",
+      "Jeruk nipis",
+      "Prem"
+    ],
+    "en_answer": "Banana",
+    "id_answer": "Pisang",
+    "en_fact": "Bananas are a source of carbohydrates and potassium.",
+    "id_fact": "Pisang merupakan sumber karbohidrat dan kalium."
+  },
+  {
+    "id": 24,
+    "category": "Geography",
+    "id_title": "Ayo belajar! Di planet mana kita tinggal?",
+    "en_question": "Let's learn! Which planet do we live on?",
+    "id_question": "Ayo belajar! Di planet mana kita tinggal?",
+    "en_options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "id_options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "en_answer": "Earth",
+    "id_answer": "Bumi",
+    "en_fact": "Earth is the third planet from the Sun.",
+    "id_fact": "Bumi adalah planet ketiga dari Matahari."
+  },
+  {
+    "id": 25,
+    "category": "Animals",
+    "id_title": "Ayo belajar! Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_question": "Let's learn! Which animal lives in a hive and makes honey?",
+    "id_question": "Ayo belajar! Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_options": [
+      "Bee",
+      "Ant",
+      "Butterfly",
+      "Fly"
+    ],
+    "id_options": [
+      "Lebah",
+      "Semut",
+      "Kupu-kupu",
+      "Lalat"
+    ],
+    "en_answer": "Bee",
+    "id_answer": "Lebah",
+    "en_fact": "Honeybees collect nectar from flowers to make honey.",
+    "id_fact": "Lebah madu mengumpulkan nektar bunga untuk membuat madu."
+  },
+  {
+    "id": 26,
+    "category": "Nature",
+    "id_title": "Ayo belajar! Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_question": "Let's learn! Which part of a plant usually absorbs water from soil?",
+    "id_question": "Ayo belajar! Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_options": [
+      "Roots",
+      "Petals",
+      "Fruit",
+      "Thorns"
+    ],
+    "id_options": [
+      "Akar",
+      "Mahkota bunga",
+      "Buah",
+      "Duri"
+    ],
+    "en_answer": "Roots",
+    "id_answer": "Akar",
+    "en_fact": "Roots take up water and minerals from the soil.",
+    "id_fact": "Akar menyerap air dan mineral dari tanah."
+  },
+  {
+    "id": 27,
+    "category": "Space",
+    "id_title": "Ayo belajar! Planet apa yang terkenal dengan cincinnya?",
+    "en_question": "Let's learn! Which planet is famous for its rings?",
+    "id_question": "Ayo belajar! Planet apa yang terkenal dengan cincinnya?",
+    "en_options": [
+      "Mars",
+      "Saturn",
+      "Mercury",
+      "Earth"
+    ],
+    "id_options": [
+      "Mars",
+      "Saturnus",
+      "Merkurius",
+      "Bumi"
+    ],
+    "en_answer": "Saturn",
+    "id_answer": "Saturnus",
+    "en_fact": "Saturn's rings are made mostly of pieces of ice and rock.",
+    "id_fact": "Cincin Saturnus terutama terdiri dari bongkahan es dan batu."
+  },
+  {
+    "id": 28,
+    "category": "Everyday Science",
+    "id_title": "Ayo belajar! Es adalah wujud air yang mana?",
+    "en_question": "Let's learn! Which state of water is ice?",
+    "id_question": "Ayo belajar! Es adalah wujud air yang mana?",
+    "en_options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "id_options": [
+      "Padat",
+      "Cair",
+      "Gas",
+      "Plasma"
+    ],
+    "en_answer": "Solid",
+    "id_answer": "Padat",
+    "en_fact": "Ice is water in its solid state.",
+    "id_fact": "Es adalah air dalam wujud padat."
+  },
+  {
+    "id": 29,
+    "category": "Food and Colors",
+    "id_title": "Kuis cepat: Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_question": "Quick quiz: Which color do you get by mixing blue and yellow paint?",
+    "id_question": "Kuis cepat: Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_options": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Pink"
+    ],
+    "id_options": [
+      "Hijau",
+      "Ungu",
+      "Oranye",
+      "Merah muda"
+    ],
+    "en_answer": "Green",
+    "id_answer": "Hijau",
+    "en_fact": "Blue and yellow pigments commonly mix to make green.",
+    "id_fact": "Pigmen biru dan kuning umumnya bercampur menjadi hijau."
+  },
+  {
+    "id": 30,
+    "category": "Geography",
+    "id_title": "Kuis cepat: Samudra apa yang terbesar di Bumi?",
+    "en_question": "Quick quiz: What is the largest ocean on Earth?",
+    "id_question": "Kuis cepat: Samudra apa yang terbesar di Bumi?",
+    "en_options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "id_options": [
+      "Samudra Pasifik",
+      "Samudra Hindia",
+      "Samudra Arktik",
+      "Samudra Atlantik"
+    ],
+    "en_answer": "Pacific Ocean",
+    "id_answer": "Samudra Pasifik",
+    "en_fact": "The Pacific Ocean covers more area than any other ocean.",
+    "id_fact": "Samudra Pasifik mencakup wilayah lebih luas daripada samudra lain."
+  },
+  {
+    "id": 31,
+    "category": "Animals",
+    "id_title": "Kuis cepat: Hewan laut apa yang memiliki delapan lengan?",
+    "en_question": "Quick quiz: Which sea animal has eight arms?",
+    "id_question": "Kuis cepat: Hewan laut apa yang memiliki delapan lengan?",
+    "en_options": [
+      "Shark",
+      "Octopus",
+      "Turtle",
+      "Whale"
+    ],
+    "id_options": [
+      "Hiu",
+      "Gurita",
+      "Kura-kura",
+      "Paus"
+    ],
+    "en_answer": "Octopus",
+    "id_answer": "Gurita",
+    "en_fact": "An octopus has eight arms lined with suckers.",
+    "id_fact": "Gurita memiliki delapan lengan dengan alat pengisap."
+  },
+  {
+    "id": 32,
+    "category": "Nature",
+    "id_title": "Kuis cepat: Apa yang jatuh dari awan sebagai kristal es?",
+    "en_question": "Quick quiz: What falls from clouds as frozen ice crystals?",
+    "id_question": "Kuis cepat: Apa yang jatuh dari awan sebagai kristal es?",
+    "en_options": [
+      "Snow",
+      "Steam",
+      "Dust",
+      "Leaves"
+    ],
+    "id_options": [
+      "Salju",
+      "Uap",
+      "Debu",
+      "Daun"
+    ],
+    "en_answer": "Snow",
+    "id_answer": "Salju",
+    "en_fact": "Snow forms when ice crystals grow in cold clouds.",
+    "id_fact": "Salju terbentuk ketika kristal es tumbuh di awan dingin."
+  },
+  {
+    "id": 33,
+    "category": "Space",
+    "id_title": "Kuis cepat: Apa satelit alami Bumi?",
+    "en_question": "Quick quiz: What is Earth's natural satellite?",
+    "id_question": "Kuis cepat: Apa satelit alami Bumi?",
+    "en_options": [
+      "The Moon",
+      "The Sun",
+      "Mars",
+      "Venus"
+    ],
+    "id_options": [
+      "Bulan",
+      "Matahari",
+      "Mars",
+      "Venus"
+    ],
+    "en_answer": "The Moon",
+    "id_answer": "Bulan",
+    "en_fact": "The Moon orbits Earth.",
+    "id_fact": "Bulan mengorbit Bumi."
+  },
+  {
+    "id": 34,
+    "category": "Everyday Science",
+    "id_title": "Kuis cepat: Gaya apa yang menarik benda ke arah Bumi?",
+    "en_question": "Quick quiz: Which force pulls objects toward Earth?",
+    "id_question": "Kuis cepat: Gaya apa yang menarik benda ke arah Bumi?",
+    "en_options": [
+      "Gravity",
+      "Magnetism only",
+      "Sound",
+      "Light"
+    ],
+    "id_options": [
+      "Gravitasi",
+      "Hanya magnet",
+      "Suara",
+      "Cahaya"
+    ],
+    "en_answer": "Gravity",
+    "id_answer": "Gravitasi",
+    "en_fact": "Gravity keeps us and objects on Earth's surface.",
+    "id_fact": "Gravitasi menjaga kita dan benda tetap di permukaan Bumi."
+  },
+  {
+    "id": 35,
+    "category": "Food and Colors",
+    "id_title": "Kuis cepat: Makanan apa yang dibuat oleh lebah?",
+    "en_question": "Quick quiz: Which food is made by bees?",
+    "id_question": "Kuis cepat: Makanan apa yang dibuat oleh lebah?",
+    "en_options": [
+      "Honey",
+      "Bread",
+      "Cheese",
+      "Rice"
+    ],
+    "id_options": [
+      "Madu",
+      "Roti",
+      "Keju",
+      "Nasi"
+    ],
+    "en_answer": "Honey",
+    "id_answer": "Madu",
+    "en_fact": "Honeybees make honey from collected nectar.",
+    "id_fact": "Lebah madu membuat madu dari nektar yang dikumpulkan."
+  },
+  {
+    "id": 36,
+    "category": "Geography",
+    "id_title": "Bisakah kamu menjawab ini? Di benua mana Mesir berada?",
+    "en_question": "Can you answer this? On which continent is Egypt located?",
+    "id_question": "Bisakah kamu menjawab ini? Di benua mana Mesir berada?",
+    "en_options": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Australia"
+    ],
+    "id_options": [
+      "Afrika",
+      "Eropa",
+      "Amerika Selatan",
+      "Australia"
+    ],
+    "en_answer": "Africa",
+    "id_answer": "Afrika",
+    "en_fact": "Most of Egypt is in northeastern Africa.",
+    "id_fact": "Sebagian besar wilayah Mesir berada di Afrika timur laut."
+  },
+  {
+    "id": 37,
+    "category": "Animals",
+    "id_title": "Bisakah kamu menjawab ini? Hewan apa yang menghasilkan wol?",
+    "en_question": "Can you answer this? Which animal gives us wool?",
+    "id_question": "Bisakah kamu menjawab ini? Hewan apa yang menghasilkan wol?",
+    "en_options": [
+      "Sheep",
+      "Tiger",
+      "Dolphin",
+      "Frog"
+    ],
+    "id_options": [
+      "Domba",
+      "Harimau",
+      "Lumba-lumba",
+      "Katak"
+    ],
+    "en_answer": "Sheep",
+    "id_answer": "Domba",
+    "en_fact": "Wool from sheep can be used to make warm clothing.",
+    "id_fact": "Wol domba dapat digunakan untuk membuat pakaian hangat."
+  },
+  {
+    "id": 38,
+    "category": "Nature",
+    "id_title": "Bisakah kamu menjawab ini? Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_question": "Can you answer this? What do plants need from sunlight to make food?",
+    "id_question": "Bisakah kamu menjawab ini? Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_options": [
+      "Energy",
+      "Plastic",
+      "Sand only",
+      "Smoke"
+    ],
+    "id_options": [
+      "Energi",
+      "Plastik",
+      "Hanya pasir",
+      "Asap"
+    ],
+    "en_answer": "Energy",
+    "id_answer": "Energi",
+    "en_fact": "Plants use light energy during photosynthesis.",
+    "id_fact": "Tumbuhan menggunakan energi cahaya saat fotosintesis."
+  },
+  {
+    "id": 39,
+    "category": "Space",
+    "id_title": "Bisakah kamu menjawab ini? Bintang apa yang paling dekat dengan Bumi?",
+    "en_question": "Can you answer this? Which star is closest to Earth?",
+    "id_question": "Bisakah kamu menjawab ini? Bintang apa yang paling dekat dengan Bumi?",
+    "en_options": [
+      "The Sun",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "id_options": [
+      "Matahari",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "en_answer": "The Sun",
+    "id_answer": "Matahari",
+    "en_fact": "The Sun is the star at the center of our solar system.",
+    "id_fact": "Matahari adalah bintang di pusat tata surya kita."
+  },
+  {
+    "id": 40,
+    "category": "Everyday Science",
+    "id_title": "Bisakah kamu menjawab ini? Apa yang digunakan untuk mengukur suhu?",
+    "en_question": "Can you answer this? What do we use to measure temperature?",
+    "id_question": "Bisakah kamu menjawab ini? Apa yang digunakan untuk mengukur suhu?",
+    "en_options": [
+      "Thermometer",
+      "Ruler",
+      "Compass",
+      "Scale"
+    ],
+    "id_options": [
+      "Termometer",
+      "Penggaris",
+      "Kompas",
+      "Timbangan"
+    ],
+    "en_answer": "Thermometer",
+    "id_answer": "Termometer",
+    "en_fact": "A thermometer measures how hot or cold something is.",
+    "id_fact": "Termometer mengukur seberapa panas atau dingin sesuatu."
+  },
+  {
+    "id": 41,
+    "category": "Food and Colors",
+    "id_title": "Bisakah kamu menjawab ini? Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_question": "Can you answer this? Which fruit is usually yellow when ripe and monkeys are often shown eating it?",
+    "id_question": "Bisakah kamu menjawab ini? Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_options": [
+      "Banana",
+      "Blueberry",
+      "Lime",
+      "Plum"
+    ],
+    "id_options": [
+      "Pisang",
+      "Blueberry",
+      "Jeruk nipis",
+      "Prem"
+    ],
+    "en_answer": "Banana",
+    "id_answer": "Pisang",
+    "en_fact": "Bananas are a source of carbohydrates and potassium.",
+    "id_fact": "Pisang merupakan sumber karbohidrat dan kalium."
+  },
+  {
+    "id": 42,
+    "category": "Geography",
+    "id_title": "Bisakah kamu menjawab ini? Di planet mana kita tinggal?",
+    "en_question": "Can you answer this? Which planet do we live on?",
+    "id_question": "Bisakah kamu menjawab ini? Di planet mana kita tinggal?",
+    "en_options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "id_options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "en_answer": "Earth",
+    "id_answer": "Bumi",
+    "en_fact": "Earth is the third planet from the Sun.",
+    "id_fact": "Bumi adalah planet ketiga dari Matahari."
+  },
+  {
+    "id": 43,
+    "category": "Animals",
+    "id_title": "Pilih jawaban yang benar: Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_question": "Choose the correct answer: Which animal lives in a hive and makes honey?",
+    "id_question": "Pilih jawaban yang benar: Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_options": [
+      "Bee",
+      "Ant",
+      "Butterfly",
+      "Fly"
+    ],
+    "id_options": [
+      "Lebah",
+      "Semut",
+      "Kupu-kupu",
+      "Lalat"
+    ],
+    "en_answer": "Bee",
+    "id_answer": "Lebah",
+    "en_fact": "Honeybees collect nectar from flowers to make honey.",
+    "id_fact": "Lebah madu mengumpulkan nektar bunga untuk membuat madu."
+  },
+  {
+    "id": 44,
+    "category": "Nature",
+    "id_title": "Pilih jawaban yang benar: Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_question": "Choose the correct answer: Which part of a plant usually absorbs water from soil?",
+    "id_question": "Pilih jawaban yang benar: Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_options": [
+      "Roots",
+      "Petals",
+      "Fruit",
+      "Thorns"
+    ],
+    "id_options": [
+      "Akar",
+      "Mahkota bunga",
+      "Buah",
+      "Duri"
+    ],
+    "en_answer": "Roots",
+    "id_answer": "Akar",
+    "en_fact": "Roots take up water and minerals from the soil.",
+    "id_fact": "Akar menyerap air dan mineral dari tanah."
+  },
+  {
+    "id": 45,
+    "category": "Space",
+    "id_title": "Pilih jawaban yang benar: Planet apa yang terkenal dengan cincinnya?",
+    "en_question": "Choose the correct answer: Which planet is famous for its rings?",
+    "id_question": "Pilih jawaban yang benar: Planet apa yang terkenal dengan cincinnya?",
+    "en_options": [
+      "Mars",
+      "Saturn",
+      "Mercury",
+      "Earth"
+    ],
+    "id_options": [
+      "Mars",
+      "Saturnus",
+      "Merkurius",
+      "Bumi"
+    ],
+    "en_answer": "Saturn",
+    "id_answer": "Saturnus",
+    "en_fact": "Saturn's rings are made mostly of pieces of ice and rock.",
+    "id_fact": "Cincin Saturnus terutama terdiri dari bongkahan es dan batu."
+  },
+  {
+    "id": 46,
+    "category": "Everyday Science",
+    "id_title": "Pilih jawaban yang benar: Es adalah wujud air yang mana?",
+    "en_question": "Choose the correct answer: Which state of water is ice?",
+    "id_question": "Pilih jawaban yang benar: Es adalah wujud air yang mana?",
+    "en_options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "id_options": [
+      "Padat",
+      "Cair",
+      "Gas",
+      "Plasma"
+    ],
+    "en_answer": "Solid",
+    "id_answer": "Padat",
+    "en_fact": "Ice is water in its solid state.",
+    "id_fact": "Es adalah air dalam wujud padat."
+  },
+  {
+    "id": 47,
+    "category": "Food and Colors",
+    "id_title": "Pilih jawaban yang benar: Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_question": "Choose the correct answer: Which color do you get by mixing blue and yellow paint?",
+    "id_question": "Pilih jawaban yang benar: Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_options": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Pink"
+    ],
+    "id_options": [
+      "Hijau",
+      "Ungu",
+      "Oranye",
+      "Merah muda"
+    ],
+    "en_answer": "Green",
+    "id_answer": "Hijau",
+    "en_fact": "Blue and yellow pigments commonly mix to make green.",
+    "id_fact": "Pigmen biru dan kuning umumnya bercampur menjadi hijau."
+  },
+  {
+    "id": 48,
+    "category": "Geography",
+    "id_title": "Pilih jawaban yang benar: Samudra apa yang terbesar di Bumi?",
+    "en_question": "Choose the correct answer: What is the largest ocean on Earth?",
+    "id_question": "Pilih jawaban yang benar: Samudra apa yang terbesar di Bumi?",
+    "en_options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "id_options": [
+      "Samudra Pasifik",
+      "Samudra Hindia",
+      "Samudra Arktik",
+      "Samudra Atlantik"
+    ],
+    "en_answer": "Pacific Ocean",
+    "id_answer": "Samudra Pasifik",
+    "en_fact": "The Pacific Ocean covers more area than any other ocean.",
+    "id_fact": "Samudra Pasifik mencakup wilayah lebih luas daripada samudra lain."
+  },
+  {
+    "id": 49,
+    "category": "Animals",
+    "id_title": "Pilih jawaban yang benar: Hewan laut apa yang memiliki delapan lengan?",
+    "en_question": "Choose the correct answer: Which sea animal has eight arms?",
+    "id_question": "Pilih jawaban yang benar: Hewan laut apa yang memiliki delapan lengan?",
+    "en_options": [
+      "Shark",
+      "Octopus",
+      "Turtle",
+      "Whale"
+    ],
+    "id_options": [
+      "Hiu",
+      "Gurita",
+      "Kura-kura",
+      "Paus"
+    ],
+    "en_answer": "Octopus",
+    "id_answer": "Gurita",
+    "en_fact": "An octopus has eight arms lined with suckers.",
+    "id_fact": "Gurita memiliki delapan lengan dengan alat pengisap."
+  },
+  {
+    "id": 50,
+    "category": "Nature",
+    "id_title": "Ayo belajar! Apa yang jatuh dari awan sebagai kristal es?",
+    "en_question": "Let's learn! What falls from clouds as frozen ice crystals?",
+    "id_question": "Ayo belajar! Apa yang jatuh dari awan sebagai kristal es?",
+    "en_options": [
+      "Snow",
+      "Steam",
+      "Dust",
+      "Leaves"
+    ],
+    "id_options": [
+      "Salju",
+      "Uap",
+      "Debu",
+      "Daun"
+    ],
+    "en_answer": "Snow",
+    "id_answer": "Salju",
+    "en_fact": "Snow forms when ice crystals grow in cold clouds.",
+    "id_fact": "Salju terbentuk ketika kristal es tumbuh di awan dingin."
+  },
+  {
+    "id": 51,
+    "category": "Space",
+    "id_title": "Ayo belajar! Apa satelit alami Bumi?",
+    "en_question": "Let's learn! What is Earth's natural satellite?",
+    "id_question": "Ayo belajar! Apa satelit alami Bumi?",
+    "en_options": [
+      "The Moon",
+      "The Sun",
+      "Mars",
+      "Venus"
+    ],
+    "id_options": [
+      "Bulan",
+      "Matahari",
+      "Mars",
+      "Venus"
+    ],
+    "en_answer": "The Moon",
+    "id_answer": "Bulan",
+    "en_fact": "The Moon orbits Earth.",
+    "id_fact": "Bulan mengorbit Bumi."
+  },
+  {
+    "id": 52,
+    "category": "Everyday Science",
+    "id_title": "Ayo belajar! Gaya apa yang menarik benda ke arah Bumi?",
+    "en_question": "Let's learn! Which force pulls objects toward Earth?",
+    "id_question": "Ayo belajar! Gaya apa yang menarik benda ke arah Bumi?",
+    "en_options": [
+      "Gravity",
+      "Magnetism only",
+      "Sound",
+      "Light"
+    ],
+    "id_options": [
+      "Gravitasi",
+      "Hanya magnet",
+      "Suara",
+      "Cahaya"
+    ],
+    "en_answer": "Gravity",
+    "id_answer": "Gravitasi",
+    "en_fact": "Gravity keeps us and objects on Earth's surface.",
+    "id_fact": "Gravitasi menjaga kita dan benda tetap di permukaan Bumi."
+  },
+  {
+    "id": 53,
+    "category": "Food and Colors",
+    "id_title": "Ayo belajar! Makanan apa yang dibuat oleh lebah?",
+    "en_question": "Let's learn! Which food is made by bees?",
+    "id_question": "Ayo belajar! Makanan apa yang dibuat oleh lebah?",
+    "en_options": [
+      "Honey",
+      "Bread",
+      "Cheese",
+      "Rice"
+    ],
+    "id_options": [
+      "Madu",
+      "Roti",
+      "Keju",
+      "Nasi"
+    ],
+    "en_answer": "Honey",
+    "id_answer": "Madu",
+    "en_fact": "Honeybees make honey from collected nectar.",
+    "id_fact": "Lebah madu membuat madu dari nektar yang dikumpulkan."
+  },
+  {
+    "id": 54,
+    "category": "Geography",
+    "id_title": "Ayo belajar! Di benua mana Mesir berada?",
+    "en_question": "Let's learn! On which continent is Egypt located?",
+    "id_question": "Ayo belajar! Di benua mana Mesir berada?",
+    "en_options": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Australia"
+    ],
+    "id_options": [
+      "Afrika",
+      "Eropa",
+      "Amerika Selatan",
+      "Australia"
+    ],
+    "en_answer": "Africa",
+    "id_answer": "Afrika",
+    "en_fact": "Most of Egypt is in northeastern Africa.",
+    "id_fact": "Sebagian besar wilayah Mesir berada di Afrika timur laut."
+  },
+  {
+    "id": 55,
+    "category": "Animals",
+    "id_title": "Ayo belajar! Hewan apa yang menghasilkan wol?",
+    "en_question": "Let's learn! Which animal gives us wool?",
+    "id_question": "Ayo belajar! Hewan apa yang menghasilkan wol?",
+    "en_options": [
+      "Sheep",
+      "Tiger",
+      "Dolphin",
+      "Frog"
+    ],
+    "id_options": [
+      "Domba",
+      "Harimau",
+      "Lumba-lumba",
+      "Katak"
+    ],
+    "en_answer": "Sheep",
+    "id_answer": "Domba",
+    "en_fact": "Wool from sheep can be used to make warm clothing.",
+    "id_fact": "Wol domba dapat digunakan untuk membuat pakaian hangat."
+  },
+  {
+    "id": 56,
+    "category": "Nature",
+    "id_title": "Ayo belajar! Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_question": "Let's learn! What do plants need from sunlight to make food?",
+    "id_question": "Ayo belajar! Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_options": [
+      "Energy",
+      "Plastic",
+      "Sand only",
+      "Smoke"
+    ],
+    "id_options": [
+      "Energi",
+      "Plastik",
+      "Hanya pasir",
+      "Asap"
+    ],
+    "en_answer": "Energy",
+    "id_answer": "Energi",
+    "en_fact": "Plants use light energy during photosynthesis.",
+    "id_fact": "Tumbuhan menggunakan energi cahaya saat fotosintesis."
+  },
+  {
+    "id": 57,
+    "category": "Space",
+    "id_title": "Kuis cepat: Bintang apa yang paling dekat dengan Bumi?",
+    "en_question": "Quick quiz: Which star is closest to Earth?",
+    "id_question": "Kuis cepat: Bintang apa yang paling dekat dengan Bumi?",
+    "en_options": [
+      "The Sun",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "id_options": [
+      "Matahari",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "en_answer": "The Sun",
+    "id_answer": "Matahari",
+    "en_fact": "The Sun is the star at the center of our solar system.",
+    "id_fact": "Matahari adalah bintang di pusat tata surya kita."
+  },
+  {
+    "id": 58,
+    "category": "Everyday Science",
+    "id_title": "Kuis cepat: Apa yang digunakan untuk mengukur suhu?",
+    "en_question": "Quick quiz: What do we use to measure temperature?",
+    "id_question": "Kuis cepat: Apa yang digunakan untuk mengukur suhu?",
+    "en_options": [
+      "Thermometer",
+      "Ruler",
+      "Compass",
+      "Scale"
+    ],
+    "id_options": [
+      "Termometer",
+      "Penggaris",
+      "Kompas",
+      "Timbangan"
+    ],
+    "en_answer": "Thermometer",
+    "id_answer": "Termometer",
+    "en_fact": "A thermometer measures how hot or cold something is.",
+    "id_fact": "Termometer mengukur seberapa panas atau dingin sesuatu."
+  },
+  {
+    "id": 59,
+    "category": "Food and Colors",
+    "id_title": "Kuis cepat: Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_question": "Quick quiz: Which fruit is usually yellow when ripe and monkeys are often shown eating it?",
+    "id_question": "Kuis cepat: Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_options": [
+      "Banana",
+      "Blueberry",
+      "Lime",
+      "Plum"
+    ],
+    "id_options": [
+      "Pisang",
+      "Blueberry",
+      "Jeruk nipis",
+      "Prem"
+    ],
+    "en_answer": "Banana",
+    "id_answer": "Pisang",
+    "en_fact": "Bananas are a source of carbohydrates and potassium.",
+    "id_fact": "Pisang merupakan sumber karbohidrat dan kalium."
+  },
+  {
+    "id": 60,
+    "category": "Geography",
+    "id_title": "Kuis cepat: Di planet mana kita tinggal?",
+    "en_question": "Quick quiz: Which planet do we live on?",
+    "id_question": "Kuis cepat: Di planet mana kita tinggal?",
+    "en_options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "id_options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "en_answer": "Earth",
+    "id_answer": "Bumi",
+    "en_fact": "Earth is the third planet from the Sun.",
+    "id_fact": "Bumi adalah planet ketiga dari Matahari."
+  },
+  {
+    "id": 61,
+    "category": "Animals",
+    "id_title": "Kuis cepat: Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_question": "Quick quiz: Which animal lives in a hive and makes honey?",
+    "id_question": "Kuis cepat: Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_options": [
+      "Bee",
+      "Ant",
+      "Butterfly",
+      "Fly"
+    ],
+    "id_options": [
+      "Lebah",
+      "Semut",
+      "Kupu-kupu",
+      "Lalat"
+    ],
+    "en_answer": "Bee",
+    "id_answer": "Lebah",
+    "en_fact": "Honeybees collect nectar from flowers to make honey.",
+    "id_fact": "Lebah madu mengumpulkan nektar bunga untuk membuat madu."
+  },
+  {
+    "id": 62,
+    "category": "Nature",
+    "id_title": "Kuis cepat: Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_question": "Quick quiz: Which part of a plant usually absorbs water from soil?",
+    "id_question": "Kuis cepat: Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_options": [
+      "Roots",
+      "Petals",
+      "Fruit",
+      "Thorns"
+    ],
+    "id_options": [
+      "Akar",
+      "Mahkota bunga",
+      "Buah",
+      "Duri"
+    ],
+    "en_answer": "Roots",
+    "id_answer": "Akar",
+    "en_fact": "Roots take up water and minerals from the soil.",
+    "id_fact": "Akar menyerap air dan mineral dari tanah."
+  },
+  {
+    "id": 63,
+    "category": "Space",
+    "id_title": "Kuis cepat: Planet apa yang terkenal dengan cincinnya?",
+    "en_question": "Quick quiz: Which planet is famous for its rings?",
+    "id_question": "Kuis cepat: Planet apa yang terkenal dengan cincinnya?",
+    "en_options": [
+      "Mars",
+      "Saturn",
+      "Mercury",
+      "Earth"
+    ],
+    "id_options": [
+      "Mars",
+      "Saturnus",
+      "Merkurius",
+      "Bumi"
+    ],
+    "en_answer": "Saturn",
+    "id_answer": "Saturnus",
+    "en_fact": "Saturn's rings are made mostly of pieces of ice and rock.",
+    "id_fact": "Cincin Saturnus terutama terdiri dari bongkahan es dan batu."
+  },
+  {
+    "id": 64,
+    "category": "Everyday Science",
+    "id_title": "Bisakah kamu menjawab ini? Es adalah wujud air yang mana?",
+    "en_question": "Can you answer this? Which state of water is ice?",
+    "id_question": "Bisakah kamu menjawab ini? Es adalah wujud air yang mana?",
+    "en_options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "id_options": [
+      "Padat",
+      "Cair",
+      "Gas",
+      "Plasma"
+    ],
+    "en_answer": "Solid",
+    "id_answer": "Padat",
+    "en_fact": "Ice is water in its solid state.",
+    "id_fact": "Es adalah air dalam wujud padat."
+  },
+  {
+    "id": 65,
+    "category": "Food and Colors",
+    "id_title": "Bisakah kamu menjawab ini? Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_question": "Can you answer this? Which color do you get by mixing blue and yellow paint?",
+    "id_question": "Bisakah kamu menjawab ini? Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_options": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Pink"
+    ],
+    "id_options": [
+      "Hijau",
+      "Ungu",
+      "Oranye",
+      "Merah muda"
+    ],
+    "en_answer": "Green",
+    "id_answer": "Hijau",
+    "en_fact": "Blue and yellow pigments commonly mix to make green.",
+    "id_fact": "Pigmen biru dan kuning umumnya bercampur menjadi hijau."
+  },
+  {
+    "id": 66,
+    "category": "Geography",
+    "id_title": "Bisakah kamu menjawab ini? Samudra apa yang terbesar di Bumi?",
+    "en_question": "Can you answer this? What is the largest ocean on Earth?",
+    "id_question": "Bisakah kamu menjawab ini? Samudra apa yang terbesar di Bumi?",
+    "en_options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "id_options": [
+      "Samudra Pasifik",
+      "Samudra Hindia",
+      "Samudra Arktik",
+      "Samudra Atlantik"
+    ],
+    "en_answer": "Pacific Ocean",
+    "id_answer": "Samudra Pasifik",
+    "en_fact": "The Pacific Ocean covers more area than any other ocean.",
+    "id_fact": "Samudra Pasifik mencakup wilayah lebih luas daripada samudra lain."
+  },
+  {
+    "id": 67,
+    "category": "Animals",
+    "id_title": "Bisakah kamu menjawab ini? Hewan laut apa yang memiliki delapan lengan?",
+    "en_question": "Can you answer this? Which sea animal has eight arms?",
+    "id_question": "Bisakah kamu menjawab ini? Hewan laut apa yang memiliki delapan lengan?",
+    "en_options": [
+      "Shark",
+      "Octopus",
+      "Turtle",
+      "Whale"
+    ],
+    "id_options": [
+      "Hiu",
+      "Gurita",
+      "Kura-kura",
+      "Paus"
+    ],
+    "en_answer": "Octopus",
+    "id_answer": "Gurita",
+    "en_fact": "An octopus has eight arms lined with suckers.",
+    "id_fact": "Gurita memiliki delapan lengan dengan alat pengisap."
+  },
+  {
+    "id": 68,
+    "category": "Nature",
+    "id_title": "Bisakah kamu menjawab ini? Apa yang jatuh dari awan sebagai kristal es?",
+    "en_question": "Can you answer this? What falls from clouds as frozen ice crystals?",
+    "id_question": "Bisakah kamu menjawab ini? Apa yang jatuh dari awan sebagai kristal es?",
+    "en_options": [
+      "Snow",
+      "Steam",
+      "Dust",
+      "Leaves"
+    ],
+    "id_options": [
+      "Salju",
+      "Uap",
+      "Debu",
+      "Daun"
+    ],
+    "en_answer": "Snow",
+    "id_answer": "Salju",
+    "en_fact": "Snow forms when ice crystals grow in cold clouds.",
+    "id_fact": "Salju terbentuk ketika kristal es tumbuh di awan dingin."
+  },
+  {
+    "id": 69,
+    "category": "Space",
+    "id_title": "Bisakah kamu menjawab ini? Apa satelit alami Bumi?",
+    "en_question": "Can you answer this? What is Earth's natural satellite?",
+    "id_question": "Bisakah kamu menjawab ini? Apa satelit alami Bumi?",
+    "en_options": [
+      "The Moon",
+      "The Sun",
+      "Mars",
+      "Venus"
+    ],
+    "id_options": [
+      "Bulan",
+      "Matahari",
+      "Mars",
+      "Venus"
+    ],
+    "en_answer": "The Moon",
+    "id_answer": "Bulan",
+    "en_fact": "The Moon orbits Earth.",
+    "id_fact": "Bulan mengorbit Bumi."
+  },
+  {
+    "id": 70,
+    "category": "Everyday Science",
+    "id_title": "Bisakah kamu menjawab ini? Gaya apa yang menarik benda ke arah Bumi?",
+    "en_question": "Can you answer this? Which force pulls objects toward Earth?",
+    "id_question": "Bisakah kamu menjawab ini? Gaya apa yang menarik benda ke arah Bumi?",
+    "en_options": [
+      "Gravity",
+      "Magnetism only",
+      "Sound",
+      "Light"
+    ],
+    "id_options": [
+      "Gravitasi",
+      "Hanya magnet",
+      "Suara",
+      "Cahaya"
+    ],
+    "en_answer": "Gravity",
+    "id_answer": "Gravitasi",
+    "en_fact": "Gravity keeps us and objects on Earth's surface.",
+    "id_fact": "Gravitasi menjaga kita dan benda tetap di permukaan Bumi."
+  },
+  {
+    "id": 71,
+    "category": "Food and Colors",
+    "id_title": "Pilih jawaban yang benar: Makanan apa yang dibuat oleh lebah?",
+    "en_question": "Choose the correct answer: Which food is made by bees?",
+    "id_question": "Pilih jawaban yang benar: Makanan apa yang dibuat oleh lebah?",
+    "en_options": [
+      "Honey",
+      "Bread",
+      "Cheese",
+      "Rice"
+    ],
+    "id_options": [
+      "Madu",
+      "Roti",
+      "Keju",
+      "Nasi"
+    ],
+    "en_answer": "Honey",
+    "id_answer": "Madu",
+    "en_fact": "Honeybees make honey from collected nectar.",
+    "id_fact": "Lebah madu membuat madu dari nektar yang dikumpulkan."
+  },
+  {
+    "id": 72,
+    "category": "Geography",
+    "id_title": "Pilih jawaban yang benar: Di benua mana Mesir berada?",
+    "en_question": "Choose the correct answer: On which continent is Egypt located?",
+    "id_question": "Pilih jawaban yang benar: Di benua mana Mesir berada?",
+    "en_options": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Australia"
+    ],
+    "id_options": [
+      "Afrika",
+      "Eropa",
+      "Amerika Selatan",
+      "Australia"
+    ],
+    "en_answer": "Africa",
+    "id_answer": "Afrika",
+    "en_fact": "Most of Egypt is in northeastern Africa.",
+    "id_fact": "Sebagian besar wilayah Mesir berada di Afrika timur laut."
+  },
+  {
+    "id": 73,
+    "category": "Animals",
+    "id_title": "Pilih jawaban yang benar: Hewan apa yang menghasilkan wol?",
+    "en_question": "Choose the correct answer: Which animal gives us wool?",
+    "id_question": "Pilih jawaban yang benar: Hewan apa yang menghasilkan wol?",
+    "en_options": [
+      "Sheep",
+      "Tiger",
+      "Dolphin",
+      "Frog"
+    ],
+    "id_options": [
+      "Domba",
+      "Harimau",
+      "Lumba-lumba",
+      "Katak"
+    ],
+    "en_answer": "Sheep",
+    "id_answer": "Domba",
+    "en_fact": "Wool from sheep can be used to make warm clothing.",
+    "id_fact": "Wol domba dapat digunakan untuk membuat pakaian hangat."
+  },
+  {
+    "id": 74,
+    "category": "Nature",
+    "id_title": "Pilih jawaban yang benar: Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_question": "Choose the correct answer: What do plants need from sunlight to make food?",
+    "id_question": "Pilih jawaban yang benar: Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_options": [
+      "Energy",
+      "Plastic",
+      "Sand only",
+      "Smoke"
+    ],
+    "id_options": [
+      "Energi",
+      "Plastik",
+      "Hanya pasir",
+      "Asap"
+    ],
+    "en_answer": "Energy",
+    "id_answer": "Energi",
+    "en_fact": "Plants use light energy during photosynthesis.",
+    "id_fact": "Tumbuhan menggunakan energi cahaya saat fotosintesis."
+  },
+  {
+    "id": 75,
+    "category": "Space",
+    "id_title": "Pilih jawaban yang benar: Bintang apa yang paling dekat dengan Bumi?",
+    "en_question": "Choose the correct answer: Which star is closest to Earth?",
+    "id_question": "Pilih jawaban yang benar: Bintang apa yang paling dekat dengan Bumi?",
+    "en_options": [
+      "The Sun",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "id_options": [
+      "Matahari",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "en_answer": "The Sun",
+    "id_answer": "Matahari",
+    "en_fact": "The Sun is the star at the center of our solar system.",
+    "id_fact": "Matahari adalah bintang di pusat tata surya kita."
+  },
+  {
+    "id": 76,
+    "category": "Everyday Science",
+    "id_title": "Pilih jawaban yang benar: Apa yang digunakan untuk mengukur suhu?",
+    "en_question": "Choose the correct answer: What do we use to measure temperature?",
+    "id_question": "Pilih jawaban yang benar: Apa yang digunakan untuk mengukur suhu?",
+    "en_options": [
+      "Thermometer",
+      "Ruler",
+      "Compass",
+      "Scale"
+    ],
+    "id_options": [
+      "Termometer",
+      "Penggaris",
+      "Kompas",
+      "Timbangan"
+    ],
+    "en_answer": "Thermometer",
+    "id_answer": "Termometer",
+    "en_fact": "A thermometer measures how hot or cold something is.",
+    "id_fact": "Termometer mengukur seberapa panas atau dingin sesuatu."
+  },
+  {
+    "id": 77,
+    "category": "Food and Colors",
+    "id_title": "Pilih jawaban yang benar: Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_question": "Choose the correct answer: Which fruit is usually yellow when ripe and monkeys are often shown eating it?",
+    "id_question": "Pilih jawaban yang benar: Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_options": [
+      "Banana",
+      "Blueberry",
+      "Lime",
+      "Plum"
+    ],
+    "id_options": [
+      "Pisang",
+      "Blueberry",
+      "Jeruk nipis",
+      "Prem"
+    ],
+    "en_answer": "Banana",
+    "id_answer": "Pisang",
+    "en_fact": "Bananas are a source of carbohydrates and potassium.",
+    "id_fact": "Pisang merupakan sumber karbohidrat dan kalium."
+  },
+  {
+    "id": 78,
+    "category": "Geography",
+    "id_title": "Ayo belajar! Di planet mana kita tinggal?",
+    "en_question": "Let's learn! Which planet do we live on?",
+    "id_question": "Ayo belajar! Di planet mana kita tinggal?",
+    "en_options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "id_options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "en_answer": "Earth",
+    "id_answer": "Bumi",
+    "en_fact": "Earth is the third planet from the Sun.",
+    "id_fact": "Bumi adalah planet ketiga dari Matahari."
+  },
+  {
+    "id": 79,
+    "category": "Animals",
+    "id_title": "Ayo belajar! Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_question": "Let's learn! Which animal lives in a hive and makes honey?",
+    "id_question": "Ayo belajar! Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_options": [
+      "Bee",
+      "Ant",
+      "Butterfly",
+      "Fly"
+    ],
+    "id_options": [
+      "Lebah",
+      "Semut",
+      "Kupu-kupu",
+      "Lalat"
+    ],
+    "en_answer": "Bee",
+    "id_answer": "Lebah",
+    "en_fact": "Honeybees collect nectar from flowers to make honey.",
+    "id_fact": "Lebah madu mengumpulkan nektar bunga untuk membuat madu."
+  },
+  {
+    "id": 80,
+    "category": "Nature",
+    "id_title": "Ayo belajar! Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_question": "Let's learn! Which part of a plant usually absorbs water from soil?",
+    "id_question": "Ayo belajar! Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_options": [
+      "Roots",
+      "Petals",
+      "Fruit",
+      "Thorns"
+    ],
+    "id_options": [
+      "Akar",
+      "Mahkota bunga",
+      "Buah",
+      "Duri"
+    ],
+    "en_answer": "Roots",
+    "id_answer": "Akar",
+    "en_fact": "Roots take up water and minerals from the soil.",
+    "id_fact": "Akar menyerap air dan mineral dari tanah."
+  },
+  {
+    "id": 81,
+    "category": "Space",
+    "id_title": "Ayo belajar! Planet apa yang terkenal dengan cincinnya?",
+    "en_question": "Let's learn! Which planet is famous for its rings?",
+    "id_question": "Ayo belajar! Planet apa yang terkenal dengan cincinnya?",
+    "en_options": [
+      "Mars",
+      "Saturn",
+      "Mercury",
+      "Earth"
+    ],
+    "id_options": [
+      "Mars",
+      "Saturnus",
+      "Merkurius",
+      "Bumi"
+    ],
+    "en_answer": "Saturn",
+    "id_answer": "Saturnus",
+    "en_fact": "Saturn's rings are made mostly of pieces of ice and rock.",
+    "id_fact": "Cincin Saturnus terutama terdiri dari bongkahan es dan batu."
+  },
+  {
+    "id": 82,
+    "category": "Everyday Science",
+    "id_title": "Ayo belajar! Es adalah wujud air yang mana?",
+    "en_question": "Let's learn! Which state of water is ice?",
+    "id_question": "Ayo belajar! Es adalah wujud air yang mana?",
+    "en_options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "id_options": [
+      "Padat",
+      "Cair",
+      "Gas",
+      "Plasma"
+    ],
+    "en_answer": "Solid",
+    "id_answer": "Padat",
+    "en_fact": "Ice is water in its solid state.",
+    "id_fact": "Es adalah air dalam wujud padat."
+  },
+  {
+    "id": 83,
+    "category": "Food and Colors",
+    "id_title": "Ayo belajar! Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_question": "Let's learn! Which color do you get by mixing blue and yellow paint?",
+    "id_question": "Ayo belajar! Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_options": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Pink"
+    ],
+    "id_options": [
+      "Hijau",
+      "Ungu",
+      "Oranye",
+      "Merah muda"
+    ],
+    "en_answer": "Green",
+    "id_answer": "Hijau",
+    "en_fact": "Blue and yellow pigments commonly mix to make green.",
+    "id_fact": "Pigmen biru dan kuning umumnya bercampur menjadi hijau."
+  },
+  {
+    "id": 84,
+    "category": "Geography",
+    "id_title": "Ayo belajar! Samudra apa yang terbesar di Bumi?",
+    "en_question": "Let's learn! What is the largest ocean on Earth?",
+    "id_question": "Ayo belajar! Samudra apa yang terbesar di Bumi?",
+    "en_options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "id_options": [
+      "Samudra Pasifik",
+      "Samudra Hindia",
+      "Samudra Arktik",
+      "Samudra Atlantik"
+    ],
+    "en_answer": "Pacific Ocean",
+    "id_answer": "Samudra Pasifik",
+    "en_fact": "The Pacific Ocean covers more area than any other ocean.",
+    "id_fact": "Samudra Pasifik mencakup wilayah lebih luas daripada samudra lain."
+  },
+  {
+    "id": 85,
+    "category": "Animals",
+    "id_title": "Kuis cepat: Hewan laut apa yang memiliki delapan lengan?",
+    "en_question": "Quick quiz: Which sea animal has eight arms?",
+    "id_question": "Kuis cepat: Hewan laut apa yang memiliki delapan lengan?",
+    "en_options": [
+      "Shark",
+      "Octopus",
+      "Turtle",
+      "Whale"
+    ],
+    "id_options": [
+      "Hiu",
+      "Gurita",
+      "Kura-kura",
+      "Paus"
+    ],
+    "en_answer": "Octopus",
+    "id_answer": "Gurita",
+    "en_fact": "An octopus has eight arms lined with suckers.",
+    "id_fact": "Gurita memiliki delapan lengan dengan alat pengisap."
+  },
+  {
+    "id": 86,
+    "category": "Nature",
+    "id_title": "Kuis cepat: Apa yang jatuh dari awan sebagai kristal es?",
+    "en_question": "Quick quiz: What falls from clouds as frozen ice crystals?",
+    "id_question": "Kuis cepat: Apa yang jatuh dari awan sebagai kristal es?",
+    "en_options": [
+      "Snow",
+      "Steam",
+      "Dust",
+      "Leaves"
+    ],
+    "id_options": [
+      "Salju",
+      "Uap",
+      "Debu",
+      "Daun"
+    ],
+    "en_answer": "Snow",
+    "id_answer": "Salju",
+    "en_fact": "Snow forms when ice crystals grow in cold clouds.",
+    "id_fact": "Salju terbentuk ketika kristal es tumbuh di awan dingin."
+  },
+  {
+    "id": 87,
+    "category": "Space",
+    "id_title": "Kuis cepat: Apa satelit alami Bumi?",
+    "en_question": "Quick quiz: What is Earth's natural satellite?",
+    "id_question": "Kuis cepat: Apa satelit alami Bumi?",
+    "en_options": [
+      "The Moon",
+      "The Sun",
+      "Mars",
+      "Venus"
+    ],
+    "id_options": [
+      "Bulan",
+      "Matahari",
+      "Mars",
+      "Venus"
+    ],
+    "en_answer": "The Moon",
+    "id_answer": "Bulan",
+    "en_fact": "The Moon orbits Earth.",
+    "id_fact": "Bulan mengorbit Bumi."
+  },
+  {
+    "id": 88,
+    "category": "Everyday Science",
+    "id_title": "Kuis cepat: Gaya apa yang menarik benda ke arah Bumi?",
+    "en_question": "Quick quiz: Which force pulls objects toward Earth?",
+    "id_question": "Kuis cepat: Gaya apa yang menarik benda ke arah Bumi?",
+    "en_options": [
+      "Gravity",
+      "Magnetism only",
+      "Sound",
+      "Light"
+    ],
+    "id_options": [
+      "Gravitasi",
+      "Hanya magnet",
+      "Suara",
+      "Cahaya"
+    ],
+    "en_answer": "Gravity",
+    "id_answer": "Gravitasi",
+    "en_fact": "Gravity keeps us and objects on Earth's surface.",
+    "id_fact": "Gravitasi menjaga kita dan benda tetap di permukaan Bumi."
+  },
+  {
+    "id": 89,
+    "category": "Food and Colors",
+    "id_title": "Kuis cepat: Makanan apa yang dibuat oleh lebah?",
+    "en_question": "Quick quiz: Which food is made by bees?",
+    "id_question": "Kuis cepat: Makanan apa yang dibuat oleh lebah?",
+    "en_options": [
+      "Honey",
+      "Bread",
+      "Cheese",
+      "Rice"
+    ],
+    "id_options": [
+      "Madu",
+      "Roti",
+      "Keju",
+      "Nasi"
+    ],
+    "en_answer": "Honey",
+    "id_answer": "Madu",
+    "en_fact": "Honeybees make honey from collected nectar.",
+    "id_fact": "Lebah madu membuat madu dari nektar yang dikumpulkan."
+  },
+  {
+    "id": 90,
+    "category": "Geography",
+    "id_title": "Kuis cepat: Di benua mana Mesir berada?",
+    "en_question": "Quick quiz: On which continent is Egypt located?",
+    "id_question": "Kuis cepat: Di benua mana Mesir berada?",
+    "en_options": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Australia"
+    ],
+    "id_options": [
+      "Afrika",
+      "Eropa",
+      "Amerika Selatan",
+      "Australia"
+    ],
+    "en_answer": "Africa",
+    "id_answer": "Afrika",
+    "en_fact": "Most of Egypt is in northeastern Africa.",
+    "id_fact": "Sebagian besar wilayah Mesir berada di Afrika timur laut."
+  },
+  {
+    "id": 91,
+    "category": "Animals",
+    "id_title": "Kuis cepat: Hewan apa yang menghasilkan wol?",
+    "en_question": "Quick quiz: Which animal gives us wool?",
+    "id_question": "Kuis cepat: Hewan apa yang menghasilkan wol?",
+    "en_options": [
+      "Sheep",
+      "Tiger",
+      "Dolphin",
+      "Frog"
+    ],
+    "id_options": [
+      "Domba",
+      "Harimau",
+      "Lumba-lumba",
+      "Katak"
+    ],
+    "en_answer": "Sheep",
+    "id_answer": "Domba",
+    "en_fact": "Wool from sheep can be used to make warm clothing.",
+    "id_fact": "Wol domba dapat digunakan untuk membuat pakaian hangat."
+  },
+  {
+    "id": 92,
+    "category": "Nature",
+    "id_title": "Bisakah kamu menjawab ini? Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_question": "Can you answer this? What do plants need from sunlight to make food?",
+    "id_question": "Bisakah kamu menjawab ini? Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_options": [
+      "Energy",
+      "Plastic",
+      "Sand only",
+      "Smoke"
+    ],
+    "id_options": [
+      "Energi",
+      "Plastik",
+      "Hanya pasir",
+      "Asap"
+    ],
+    "en_answer": "Energy",
+    "id_answer": "Energi",
+    "en_fact": "Plants use light energy during photosynthesis.",
+    "id_fact": "Tumbuhan menggunakan energi cahaya saat fotosintesis."
+  },
+  {
+    "id": 93,
+    "category": "Space",
+    "id_title": "Bisakah kamu menjawab ini? Bintang apa yang paling dekat dengan Bumi?",
+    "en_question": "Can you answer this? Which star is closest to Earth?",
+    "id_question": "Bisakah kamu menjawab ini? Bintang apa yang paling dekat dengan Bumi?",
+    "en_options": [
+      "The Sun",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "id_options": [
+      "Matahari",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "en_answer": "The Sun",
+    "id_answer": "Matahari",
+    "en_fact": "The Sun is the star at the center of our solar system.",
+    "id_fact": "Matahari adalah bintang di pusat tata surya kita."
+  },
+  {
+    "id": 94,
+    "category": "Everyday Science",
+    "id_title": "Bisakah kamu menjawab ini? Apa yang digunakan untuk mengukur suhu?",
+    "en_question": "Can you answer this? What do we use to measure temperature?",
+    "id_question": "Bisakah kamu menjawab ini? Apa yang digunakan untuk mengukur suhu?",
+    "en_options": [
+      "Thermometer",
+      "Ruler",
+      "Compass",
+      "Scale"
+    ],
+    "id_options": [
+      "Termometer",
+      "Penggaris",
+      "Kompas",
+      "Timbangan"
+    ],
+    "en_answer": "Thermometer",
+    "id_answer": "Termometer",
+    "en_fact": "A thermometer measures how hot or cold something is.",
+    "id_fact": "Termometer mengukur seberapa panas atau dingin sesuatu."
+  },
+  {
+    "id": 95,
+    "category": "Food and Colors",
+    "id_title": "Bisakah kamu menjawab ini? Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_question": "Can you answer this? Which fruit is usually yellow when ripe and monkeys are often shown eating it?",
+    "id_question": "Bisakah kamu menjawab ini? Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_options": [
+      "Banana",
+      "Blueberry",
+      "Lime",
+      "Plum"
+    ],
+    "id_options": [
+      "Pisang",
+      "Blueberry",
+      "Jeruk nipis",
+      "Prem"
+    ],
+    "en_answer": "Banana",
+    "id_answer": "Pisang",
+    "en_fact": "Bananas are a source of carbohydrates and potassium.",
+    "id_fact": "Pisang merupakan sumber karbohidrat dan kalium."
+  },
+  {
+    "id": 96,
+    "category": "Geography",
+    "id_title": "Bisakah kamu menjawab ini? Di planet mana kita tinggal?",
+    "en_question": "Can you answer this? Which planet do we live on?",
+    "id_question": "Bisakah kamu menjawab ini? Di planet mana kita tinggal?",
+    "en_options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "id_options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "en_answer": "Earth",
+    "id_answer": "Bumi",
+    "en_fact": "Earth is the third planet from the Sun.",
+    "id_fact": "Bumi adalah planet ketiga dari Matahari."
+  },
+  {
+    "id": 97,
+    "category": "Animals",
+    "id_title": "Bisakah kamu menjawab ini? Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_question": "Can you answer this? Which animal lives in a hive and makes honey?",
+    "id_question": "Bisakah kamu menjawab ini? Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_options": [
+      "Bee",
+      "Ant",
+      "Butterfly",
+      "Fly"
+    ],
+    "id_options": [
+      "Lebah",
+      "Semut",
+      "Kupu-kupu",
+      "Lalat"
+    ],
+    "en_answer": "Bee",
+    "id_answer": "Lebah",
+    "en_fact": "Honeybees collect nectar from flowers to make honey.",
+    "id_fact": "Lebah madu mengumpulkan nektar bunga untuk membuat madu."
+  },
+  {
+    "id": 98,
+    "category": "Nature",
+    "id_title": "Bisakah kamu menjawab ini? Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_question": "Can you answer this? Which part of a plant usually absorbs water from soil?",
+    "id_question": "Bisakah kamu menjawab ini? Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_options": [
+      "Roots",
+      "Petals",
+      "Fruit",
+      "Thorns"
+    ],
+    "id_options": [
+      "Akar",
+      "Mahkota bunga",
+      "Buah",
+      "Duri"
+    ],
+    "en_answer": "Roots",
+    "id_answer": "Akar",
+    "en_fact": "Roots take up water and minerals from the soil.",
+    "id_fact": "Akar menyerap air dan mineral dari tanah."
+  },
+  {
+    "id": 99,
+    "category": "Space",
+    "id_title": "Pilih jawaban yang benar: Planet apa yang terkenal dengan cincinnya?",
+    "en_question": "Choose the correct answer: Which planet is famous for its rings?",
+    "id_question": "Pilih jawaban yang benar: Planet apa yang terkenal dengan cincinnya?",
+    "en_options": [
+      "Mars",
+      "Saturn",
+      "Mercury",
+      "Earth"
+    ],
+    "id_options": [
+      "Mars",
+      "Saturnus",
+      "Merkurius",
+      "Bumi"
+    ],
+    "en_answer": "Saturn",
+    "id_answer": "Saturnus",
+    "en_fact": "Saturn's rings are made mostly of pieces of ice and rock.",
+    "id_fact": "Cincin Saturnus terutama terdiri dari bongkahan es dan batu."
+  },
+  {
+    "id": 100,
+    "category": "Everyday Science",
+    "id_title": "Pilih jawaban yang benar: Es adalah wujud air yang mana?",
+    "en_question": "Choose the correct answer: Which state of water is ice?",
+    "id_question": "Pilih jawaban yang benar: Es adalah wujud air yang mana?",
+    "en_options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "id_options": [
+      "Padat",
+      "Cair",
+      "Gas",
+      "Plasma"
+    ],
+    "en_answer": "Solid",
+    "id_answer": "Padat",
+    "en_fact": "Ice is water in its solid state.",
+    "id_fact": "Es adalah air dalam wujud padat."
+  },
+  {
+    "id": 101,
+    "category": "Food and Colors",
+    "id_title": "Pilih jawaban yang benar: Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_question": "Choose the correct answer: Which color do you get by mixing blue and yellow paint?",
+    "id_question": "Pilih jawaban yang benar: Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_options": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Pink"
+    ],
+    "id_options": [
+      "Hijau",
+      "Ungu",
+      "Oranye",
+      "Merah muda"
+    ],
+    "en_answer": "Green",
+    "id_answer": "Hijau",
+    "en_fact": "Blue and yellow pigments commonly mix to make green.",
+    "id_fact": "Pigmen biru dan kuning umumnya bercampur menjadi hijau."
+  },
+  {
+    "id": 102,
+    "category": "Geography",
+    "id_title": "Pilih jawaban yang benar: Samudra apa yang terbesar di Bumi?",
+    "en_question": "Choose the correct answer: What is the largest ocean on Earth?",
+    "id_question": "Pilih jawaban yang benar: Samudra apa yang terbesar di Bumi?",
+    "en_options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "id_options": [
+      "Samudra Pasifik",
+      "Samudra Hindia",
+      "Samudra Arktik",
+      "Samudra Atlantik"
+    ],
+    "en_answer": "Pacific Ocean",
+    "id_answer": "Samudra Pasifik",
+    "en_fact": "The Pacific Ocean covers more area than any other ocean.",
+    "id_fact": "Samudra Pasifik mencakup wilayah lebih luas daripada samudra lain."
+  },
+  {
+    "id": 103,
+    "category": "Animals",
+    "id_title": "Pilih jawaban yang benar: Hewan laut apa yang memiliki delapan lengan?",
+    "en_question": "Choose the correct answer: Which sea animal has eight arms?",
+    "id_question": "Pilih jawaban yang benar: Hewan laut apa yang memiliki delapan lengan?",
+    "en_options": [
+      "Shark",
+      "Octopus",
+      "Turtle",
+      "Whale"
+    ],
+    "id_options": [
+      "Hiu",
+      "Gurita",
+      "Kura-kura",
+      "Paus"
+    ],
+    "en_answer": "Octopus",
+    "id_answer": "Gurita",
+    "en_fact": "An octopus has eight arms lined with suckers.",
+    "id_fact": "Gurita memiliki delapan lengan dengan alat pengisap."
+  },
+  {
+    "id": 104,
+    "category": "Nature",
+    "id_title": "Pilih jawaban yang benar: Apa yang jatuh dari awan sebagai kristal es?",
+    "en_question": "Choose the correct answer: What falls from clouds as frozen ice crystals?",
+    "id_question": "Pilih jawaban yang benar: Apa yang jatuh dari awan sebagai kristal es?",
+    "en_options": [
+      "Snow",
+      "Steam",
+      "Dust",
+      "Leaves"
+    ],
+    "id_options": [
+      "Salju",
+      "Uap",
+      "Debu",
+      "Daun"
+    ],
+    "en_answer": "Snow",
+    "id_answer": "Salju",
+    "en_fact": "Snow forms when ice crystals grow in cold clouds.",
+    "id_fact": "Salju terbentuk ketika kristal es tumbuh di awan dingin."
+  },
+  {
+    "id": 105,
+    "category": "Space",
+    "id_title": "Pilih jawaban yang benar: Apa satelit alami Bumi?",
+    "en_question": "Choose the correct answer: What is Earth's natural satellite?",
+    "id_question": "Pilih jawaban yang benar: Apa satelit alami Bumi?",
+    "en_options": [
+      "The Moon",
+      "The Sun",
+      "Mars",
+      "Venus"
+    ],
+    "id_options": [
+      "Bulan",
+      "Matahari",
+      "Mars",
+      "Venus"
+    ],
+    "en_answer": "The Moon",
+    "id_answer": "Bulan",
+    "en_fact": "The Moon orbits Earth.",
+    "id_fact": "Bulan mengorbit Bumi."
+  },
+  {
+    "id": 106,
+    "category": "Everyday Science",
+    "id_title": "Ayo belajar! Gaya apa yang menarik benda ke arah Bumi?",
+    "en_question": "Let's learn! Which force pulls objects toward Earth?",
+    "id_question": "Ayo belajar! Gaya apa yang menarik benda ke arah Bumi?",
+    "en_options": [
+      "Gravity",
+      "Magnetism only",
+      "Sound",
+      "Light"
+    ],
+    "id_options": [
+      "Gravitasi",
+      "Hanya magnet",
+      "Suara",
+      "Cahaya"
+    ],
+    "en_answer": "Gravity",
+    "id_answer": "Gravitasi",
+    "en_fact": "Gravity keeps us and objects on Earth's surface.",
+    "id_fact": "Gravitasi menjaga kita dan benda tetap di permukaan Bumi."
+  },
+  {
+    "id": 107,
+    "category": "Food and Colors",
+    "id_title": "Ayo belajar! Makanan apa yang dibuat oleh lebah?",
+    "en_question": "Let's learn! Which food is made by bees?",
+    "id_question": "Ayo belajar! Makanan apa yang dibuat oleh lebah?",
+    "en_options": [
+      "Honey",
+      "Bread",
+      "Cheese",
+      "Rice"
+    ],
+    "id_options": [
+      "Madu",
+      "Roti",
+      "Keju",
+      "Nasi"
+    ],
+    "en_answer": "Honey",
+    "id_answer": "Madu",
+    "en_fact": "Honeybees make honey from collected nectar.",
+    "id_fact": "Lebah madu membuat madu dari nektar yang dikumpulkan."
+  },
+  {
+    "id": 108,
+    "category": "Geography",
+    "id_title": "Ayo belajar! Di benua mana Mesir berada?",
+    "en_question": "Let's learn! On which continent is Egypt located?",
+    "id_question": "Ayo belajar! Di benua mana Mesir berada?",
+    "en_options": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Australia"
+    ],
+    "id_options": [
+      "Afrika",
+      "Eropa",
+      "Amerika Selatan",
+      "Australia"
+    ],
+    "en_answer": "Africa",
+    "id_answer": "Afrika",
+    "en_fact": "Most of Egypt is in northeastern Africa.",
+    "id_fact": "Sebagian besar wilayah Mesir berada di Afrika timur laut."
+  },
+  {
+    "id": 109,
+    "category": "Animals",
+    "id_title": "Ayo belajar! Hewan apa yang menghasilkan wol?",
+    "en_question": "Let's learn! Which animal gives us wool?",
+    "id_question": "Ayo belajar! Hewan apa yang menghasilkan wol?",
+    "en_options": [
+      "Sheep",
+      "Tiger",
+      "Dolphin",
+      "Frog"
+    ],
+    "id_options": [
+      "Domba",
+      "Harimau",
+      "Lumba-lumba",
+      "Katak"
+    ],
+    "en_answer": "Sheep",
+    "id_answer": "Domba",
+    "en_fact": "Wool from sheep can be used to make warm clothing.",
+    "id_fact": "Wol domba dapat digunakan untuk membuat pakaian hangat."
+  },
+  {
+    "id": 110,
+    "category": "Nature",
+    "id_title": "Ayo belajar! Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_question": "Let's learn! What do plants need from sunlight to make food?",
+    "id_question": "Ayo belajar! Apa yang dibutuhkan tumbuhan dari sinar matahari untuk membuat makanan?",
+    "en_options": [
+      "Energy",
+      "Plastic",
+      "Sand only",
+      "Smoke"
+    ],
+    "id_options": [
+      "Energi",
+      "Plastik",
+      "Hanya pasir",
+      "Asap"
+    ],
+    "en_answer": "Energy",
+    "id_answer": "Energi",
+    "en_fact": "Plants use light energy during photosynthesis.",
+    "id_fact": "Tumbuhan menggunakan energi cahaya saat fotosintesis."
+  },
+  {
+    "id": 111,
+    "category": "Space",
+    "id_title": "Ayo belajar! Bintang apa yang paling dekat dengan Bumi?",
+    "en_question": "Let's learn! Which star is closest to Earth?",
+    "id_question": "Ayo belajar! Bintang apa yang paling dekat dengan Bumi?",
+    "en_options": [
+      "The Sun",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "id_options": [
+      "Matahari",
+      "Sirius",
+      "Polaris",
+      "Vega"
+    ],
+    "en_answer": "The Sun",
+    "id_answer": "Matahari",
+    "en_fact": "The Sun is the star at the center of our solar system.",
+    "id_fact": "Matahari adalah bintang di pusat tata surya kita."
+  },
+  {
+    "id": 112,
+    "category": "Everyday Science",
+    "id_title": "Ayo belajar! Apa yang digunakan untuk mengukur suhu?",
+    "en_question": "Let's learn! What do we use to measure temperature?",
+    "id_question": "Ayo belajar! Apa yang digunakan untuk mengukur suhu?",
+    "en_options": [
+      "Thermometer",
+      "Ruler",
+      "Compass",
+      "Scale"
+    ],
+    "id_options": [
+      "Termometer",
+      "Penggaris",
+      "Kompas",
+      "Timbangan"
+    ],
+    "en_answer": "Thermometer",
+    "id_answer": "Termometer",
+    "en_fact": "A thermometer measures how hot or cold something is.",
+    "id_fact": "Termometer mengukur seberapa panas atau dingin sesuatu."
+  },
+  {
+    "id": 113,
+    "category": "Food and Colors",
+    "id_title": "Kuis cepat: Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_question": "Quick quiz: Which fruit is usually yellow when ripe and monkeys are often shown eating it?",
+    "id_question": "Kuis cepat: Buah apa yang biasanya kuning saat matang dan sering digambarkan dimakan monyet?",
+    "en_options": [
+      "Banana",
+      "Blueberry",
+      "Lime",
+      "Plum"
+    ],
+    "id_options": [
+      "Pisang",
+      "Blueberry",
+      "Jeruk nipis",
+      "Prem"
+    ],
+    "en_answer": "Banana",
+    "id_answer": "Pisang",
+    "en_fact": "Bananas are a source of carbohydrates and potassium.",
+    "id_fact": "Pisang merupakan sumber karbohidrat dan kalium."
+  },
+  {
+    "id": 114,
+    "category": "Geography",
+    "id_title": "Kuis cepat: Di planet mana kita tinggal?",
+    "en_question": "Quick quiz: Which planet do we live on?",
+    "id_question": "Kuis cepat: Di planet mana kita tinggal?",
+    "en_options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "id_options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "en_answer": "Earth",
+    "id_answer": "Bumi",
+    "en_fact": "Earth is the third planet from the Sun.",
+    "id_fact": "Bumi adalah planet ketiga dari Matahari."
+  },
+  {
+    "id": 115,
+    "category": "Animals",
+    "id_title": "Kuis cepat: Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_question": "Quick quiz: Which animal lives in a hive and makes honey?",
+    "id_question": "Kuis cepat: Hewan apa yang hidup di sarang dan membuat madu?",
+    "en_options": [
+      "Bee",
+      "Ant",
+      "Butterfly",
+      "Fly"
+    ],
+    "id_options": [
+      "Lebah",
+      "Semut",
+      "Kupu-kupu",
+      "Lalat"
+    ],
+    "en_answer": "Bee",
+    "id_answer": "Lebah",
+    "en_fact": "Honeybees collect nectar from flowers to make honey.",
+    "id_fact": "Lebah madu mengumpulkan nektar bunga untuk membuat madu."
+  },
+  {
+    "id": 116,
+    "category": "Nature",
+    "id_title": "Kuis cepat: Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_question": "Quick quiz: Which part of a plant usually absorbs water from soil?",
+    "id_question": "Kuis cepat: Bagian tumbuhan mana yang biasanya menyerap air dari tanah?",
+    "en_options": [
+      "Roots",
+      "Petals",
+      "Fruit",
+      "Thorns"
+    ],
+    "id_options": [
+      "Akar",
+      "Mahkota bunga",
+      "Buah",
+      "Duri"
+    ],
+    "en_answer": "Roots",
+    "id_answer": "Akar",
+    "en_fact": "Roots take up water and minerals from the soil.",
+    "id_fact": "Akar menyerap air dan mineral dari tanah."
+  },
+  {
+    "id": 117,
+    "category": "Space",
+    "id_title": "Kuis cepat: Planet apa yang terkenal dengan cincinnya?",
+    "en_question": "Quick quiz: Which planet is famous for its rings?",
+    "id_question": "Kuis cepat: Planet apa yang terkenal dengan cincinnya?",
+    "en_options": [
+      "Mars",
+      "Saturn",
+      "Mercury",
+      "Earth"
+    ],
+    "id_options": [
+      "Mars",
+      "Saturnus",
+      "Merkurius",
+      "Bumi"
+    ],
+    "en_answer": "Saturn",
+    "id_answer": "Saturnus",
+    "en_fact": "Saturn's rings are made mostly of pieces of ice and rock.",
+    "id_fact": "Cincin Saturnus terutama terdiri dari bongkahan es dan batu."
+  },
+  {
+    "id": 118,
+    "category": "Everyday Science",
+    "id_title": "Kuis cepat: Es adalah wujud air yang mana?",
+    "en_question": "Quick quiz: Which state of water is ice?",
+    "id_question": "Kuis cepat: Es adalah wujud air yang mana?",
+    "en_options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "id_options": [
+      "Padat",
+      "Cair",
+      "Gas",
+      "Plasma"
+    ],
+    "en_answer": "Solid",
+    "id_answer": "Padat",
+    "en_fact": "Ice is water in its solid state.",
+    "id_fact": "Es adalah air dalam wujud padat."
+  },
+  {
+    "id": 119,
+    "category": "Food and Colors",
+    "id_title": "Kuis cepat: Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_question": "Quick quiz: Which color do you get by mixing blue and yellow paint?",
+    "id_question": "Kuis cepat: Warna apa yang dihasilkan dari campuran cat biru dan kuning?",
+    "en_options": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Pink"
+    ],
+    "id_options": [
+      "Hijau",
+      "Ungu",
+      "Oranye",
+      "Merah muda"
+    ],
+    "en_answer": "Green",
+    "id_answer": "Hijau",
+    "en_fact": "Blue and yellow pigments commonly mix to make green.",
+    "id_fact": "Pigmen biru dan kuning umumnya bercampur menjadi hijau."
+  },
+  {
+    "id": 120,
+    "category": "Geography",
+    "id_title": "Bisakah kamu menjawab ini? Samudra apa yang terbesar di Bumi?",
+    "en_question": "Can you answer this? What is the largest ocean on Earth?",
+    "id_question": "Bisakah kamu menjawab ini? Samudra apa yang terbesar di Bumi?",
+    "en_options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "id_options": [
+      "Samudra Pasifik",
+      "Samudra Hindia",
+      "Samudra Arktik",
+      "Samudra Atlantik"
+    ],
+    "en_answer": "Pacific Ocean",
+    "id_answer": "Samudra Pasifik",
+    "en_fact": "The Pacific Ocean covers more area than any other ocean.",
+    "id_fact": "Samudra Pasifik mencakup wilayah lebih luas daripada samudra lain."
+  }
+]
