@@ -1,0 +1,442 @@
+[
+  {
+    "id": 201,
+    "category": "Brain Test",
+    "en_question": "What has keys but cannot open locks?",
+    "en_options": [
+      "Piano",
+      "Map",
+      "Clock",
+      "Book"
+    ],
+    "en_answer": "Piano",
+    "en_fact": "A piano has keys used to play notes, not to open locks.",
+    "id_question": "Apa yang memiliki tuts tetapi tidak bisa membuka kunci?",
+    "id_options": [
+      "Piano",
+      "Peta",
+      "Jam",
+      "Buku"
+    ],
+    "id_answer": "Piano",
+    "id_fact": "Piano memiliki tuts untuk memainkan nada, bukan membuka kunci."
+  },
+  {
+    "id": 202,
+    "category": "Brain Test",
+    "en_question": "What gets wetter the more it dries?",
+    "en_options": [
+      "A towel",
+      "A sponge",
+      "Rain",
+      "Soap"
+    ],
+    "en_answer": "A towel",
+    "en_fact": "A towel absorbs water while drying something else.",
+    "id_question": "Apa yang makin basah saat makin mengeringkan?",
+    "id_options": [
+      "Handuk",
+      "Spons",
+      "Hujan",
+      "Sabun"
+    ],
+    "id_answer": "Handuk",
+    "id_fact": "Handuk menyerap air ketika mengeringkan benda lain."
+  },
+  {
+    "id": 203,
+    "category": "Brain Test",
+    "en_question": "Which month has 28 days?",
+    "en_options": [
+      "February only",
+      "All months",
+      "January",
+      "June"
+    ],
+    "en_answer": "All months",
+    "en_fact": "Every month has at least 28 days.",
+    "id_question": "Bulan apa yang memiliki 28 hari?",
+    "id_options": [
+      "Hanya Februari",
+      "Semua bulan",
+      "Januari",
+      "Juni"
+    ],
+    "id_answer": "Semua bulan",
+    "id_fact": "Setiap bulan memiliki setidaknya 28 hari."
+  },
+  {
+    "id": 204,
+    "category": "Number Logic",
+    "en_question": "Continue the pattern: 2, 6, 12, 20, ?",
+    "en_options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "en_answer": "30",
+    "en_fact": "The differences are +4, +6, +8, then +10.",
+    "id_question": "Lanjutkan pola: 2, 6, 12, 20, ?",
+    "id_options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "id_answer": "30",
+    "id_fact": "Selisihnya +4, +6, +8, lalu +10."
+  },
+  {
+    "id": 205,
+    "category": "Number Logic",
+    "en_question": "What is half of 2 plus 2?",
+    "en_options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "en_answer": "3",
+    "en_fact": "Half of 2 is 1, then add 2 to get 3.",
+    "id_question": "Berapakah setengah dari 2 ditambah 2?",
+    "id_options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "id_answer": "3",
+    "id_fact": "Setengah dari 2 adalah 1, lalu ditambah 2 menjadi 3."
+  },
+  {
+    "id": 206,
+    "category": "General Knowledge",
+    "en_question": "Which planet is known as the Red Planet?",
+    "en_options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "en_answer": "Mars",
+    "en_fact": "Iron-rich dust gives Mars its reddish appearance.",
+    "id_question": "Planet apa yang dikenal sebagai Planet Merah?",
+    "id_options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Merkurius"
+    ],
+    "id_answer": "Mars",
+    "id_fact": "Debu kaya besi membuat Mars tampak kemerahan."
+  },
+  {
+    "id": 207,
+    "category": "General Knowledge",
+    "en_question": "Which ocean is the largest?",
+    "en_options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "en_answer": "Pacific",
+    "en_fact": "The Pacific Ocean is the largest and deepest ocean basin.",
+    "id_question": "Samudra mana yang paling luas?",
+    "id_options": [
+      "Atlantik",
+      "Hindia",
+      "Arktik",
+      "Pasifik"
+    ],
+    "id_answer": "Pasifik",
+    "id_fact": "Samudra Pasifik adalah samudra terluas dan terdalam."
+  },
+  {
+    "id": 208,
+    "category": "Brain Test",
+    "en_question": "A farmer has 17 sheep. All but 9 run away. How many remain?",
+    "en_options": [
+      "8",
+      "9",
+      "17",
+      "0"
+    ],
+    "en_answer": "9",
+    "en_fact": "All but 9 means 9 sheep did not run away.",
+    "id_question": "Peternak punya 17 domba. Semua kecuali 9 kabur. Berapa tersisa?",
+    "id_options": [
+      "8",
+      "9",
+      "17",
+      "0"
+    ],
+    "id_answer": "9",
+    "id_fact": "Semua kecuali 9 berarti ada 9 domba yang tidak kabur."
+  },
+  {
+    "id": 209,
+    "category": "Number Logic",
+    "en_question": "What is the next number: 1, 1, 2, 3, 5, 8, ?",
+    "en_options": [
+      "11",
+      "12",
+      "13",
+      "15"
+    ],
+    "en_answer": "13",
+    "en_fact": "Each number is the sum of the two before it.",
+    "id_question": "Angka berikutnya: 1, 1, 2, 3, 5, 8, ?",
+    "id_options": [
+      "11",
+      "12",
+      "13",
+      "15"
+    ],
+    "id_answer": "13",
+    "id_fact": "Setiap angka adalah jumlah dua angka sebelumnya."
+  },
+  {
+    "id": 210,
+    "category": "General Knowledge",
+    "en_question": "How many sides does a hexagon have?",
+    "en_options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "en_answer": "6",
+    "en_fact": "The prefix hexa- means six.",
+    "id_question": "Berapa jumlah sisi segi enam?",
+    "id_options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "id_answer": "6",
+    "id_fact": "Awalan heksa- berarti enam."
+  },
+  {
+    "id": 211,
+    "category": "Brain Test",
+    "en_question": "If you overtake the person in second place, what place are you in?",
+    "en_options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "en_answer": "Second",
+    "en_fact": "You take the position of the person you passed.",
+    "id_question": "Jika menyalip orang di posisi kedua, kamu jadi posisi berapa?",
+    "id_options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat"
+    ],
+    "id_answer": "Kedua",
+    "id_fact": "Kamu mengambil posisi orang yang kamu salip."
+  },
+  {
+    "id": 212,
+    "category": "Visual Logic",
+    "en_question": "Which is the odd one out?",
+    "en_options": [
+      "Triangle",
+      "Square",
+      "Circle",
+      "Cube"
+    ],
+    "en_answer": "Cube",
+    "en_fact": "Cube is three-dimensional; the others are flat 2D shapes.",
+    "id_question": "Mana yang berbeda?",
+    "id_options": [
+      "Segitiga",
+      "Persegi",
+      "Lingkaran",
+      "Kubus"
+    ],
+    "id_answer": "Kubus",
+    "id_fact": "Kubus berbentuk 3D, sedangkan lainnya bentuk datar 2D."
+  },
+  {
+    "id": 213,
+    "category": "General Knowledge",
+    "en_question": "Which gas do plants absorb from the air?",
+    "en_options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "en_answer": "Carbon dioxide",
+    "en_fact": "Plants use carbon dioxide during photosynthesis.",
+    "id_question": "Gas apa yang diserap tumbuhan dari udara?",
+    "id_options": [
+      "Oksigen",
+      "Karbon dioksida",
+      "Nitrogen",
+      "Helium"
+    ],
+    "id_answer": "Karbon dioksida",
+    "id_fact": "Tumbuhan menggunakan karbon dioksida saat fotosintesis."
+  },
+  {
+    "id": 214,
+    "category": "Number Logic",
+    "en_question": "A shirt costs $20 after a 20% discount. What was the original price?",
+    "en_options": [
+      "$22",
+      "$24",
+      "$25",
+      "$30"
+    ],
+    "en_answer": "$25",
+    "en_fact": "$20 is 80% of the original price, so 20 ÷ 0.8 = 25.",
+    "id_question": "Baju seharga Rp80.000 setelah diskon 20%. Harga awalnya?",
+    "id_options": [
+      "Rp90.000",
+      "Rp96.000",
+      "Rp100.000",
+      "Rp120.000"
+    ],
+    "id_answer": "Rp100.000",
+    "id_fact": "Rp80.000 adalah 80% harga awal, jadi Rp80.000 ÷ 0,8 = Rp100.000."
+  },
+  {
+    "id": 215,
+    "category": "Brain Test",
+    "en_question": "What can travel around the world while staying in one corner?",
+    "en_options": [
+      "A stamp",
+      "A plane",
+      "A clock",
+      "A shadow"
+    ],
+    "en_answer": "A stamp",
+    "en_fact": "A postage stamp stays in the corner of an envelope.",
+    "id_question": "Apa yang bisa mengelilingi dunia sambil tetap di satu sudut?",
+    "id_options": [
+      "Perangko",
+      "Pesawat",
+      "Jam",
+      "Bayangan"
+    ],
+    "id_answer": "Perangko",
+    "id_fact": "Perangko menempel di sudut amplop."
+  },
+  {
+    "id": 216,
+    "category": "General Knowledge",
+    "en_question": "How many minutes are there in 2.5 hours?",
+    "en_options": [
+      "120",
+      "135",
+      "150",
+      "180"
+    ],
+    "en_answer": "150",
+    "en_fact": "Two and a half hours equals 150 minutes.",
+    "id_question": "Berapa menit dalam 2,5 jam?",
+    "id_options": [
+      "120",
+      "135",
+      "150",
+      "180"
+    ],
+    "id_answer": "150",
+    "id_fact": "Dua setengah jam sama dengan 150 menit."
+  },
+  {
+    "id": 217,
+    "category": "Number Logic",
+    "en_question": "If 3 machines make 3 items in 3 minutes, how long do 6 machines take to make 6 items?",
+    "en_options": [
+      "3 minutes",
+      "6 minutes",
+      "9 minutes",
+      "1 minute"
+    ],
+    "en_answer": "3 minutes",
+    "en_fact": "Each machine makes one item in three minutes.",
+    "id_question": "Jika 3 mesin membuat 3 barang dalam 3 menit, berapa lama 6 mesin membuat 6 barang?",
+    "id_options": [
+      "3 menit",
+      "6 menit",
+      "9 menit",
+      "1 menit"
+    ],
+    "id_answer": "3 menit",
+    "id_fact": "Setiap mesin membuat satu barang dalam tiga menit, jadi 6 mesin membuat 6 barang dalam 3 menit."
+  },
+  {
+    "id": 218,
+    "category": "General Knowledge",
+    "en_question": "What is the chemical symbol for gold?",
+    "en_options": [
+      "Ag",
+      "Au",
+      "Gd",
+      "Go"
+    ],
+    "en_answer": "Au",
+    "en_fact": "Au comes from the Latin word aurum.",
+    "id_question": "Apa simbol kimia emas?",
+    "id_options": [
+      "Ag",
+      "Au",
+      "Gd",
+      "Go"
+    ],
+    "id_answer": "Au",
+    "id_fact": "Au berasal dari kata Latin aurum."
+  },
+  {
+    "id": 219,
+    "category": "Brain Test",
+    "en_question": "A rooster lays an egg on a roof. Which side does it roll down?",
+    "en_options": [
+      "Left",
+      "Right",
+      "Either",
+      "Neither"
+    ],
+    "en_answer": "Neither",
+    "en_fact": "Roosters do not lay eggs.",
+    "id_question": "Seekor ayam jantan bertelur di atap. Jatuh ke sisi mana?",
+    "id_options": [
+      "Kiri",
+      "Kanan",
+      "Bisa keduanya",
+      "Tidak ada"
+    ],
+    "id_answer": "Tidak ada",
+    "id_fact": "Ayam jantan tidak bertelur."
+  },
+  {
+    "id": 220,
+    "category": "Number Logic",
+    "en_question": "What is 15% of 200?",
+    "en_options": [
+      "15",
+      "20",
+      "30",
+      "35"
+    ],
+    "en_answer": "30",
+    "en_fact": "10% of 200 is 20 and 5% is 10, totaling 30.",
+    "id_question": "Berapa 15% dari 200?",
+    "id_options": [
+      "15",
+      "20",
+      "30",
+      "35"
+    ],
+    "id_answer": "30",
+    "id_fact": "10% dari 200 adalah 20 dan 5% adalah 10, total 30."
+  }
+]
